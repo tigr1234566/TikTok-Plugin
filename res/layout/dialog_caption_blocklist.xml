@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+        <HorizontalScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" android:overScrollMode="never">
+            <com.google.android.material.chip.ChipGroup android:id="@id/chip_group" android:layout_width="wrap_content" android:layout_height="wrap_content" app:singleLine="true" style="@style/Widget.Material3.ChipGroup" />
+        </HorizontalScrollView>
+        <com.google.android.material.textfield.TextInputLayout android:id="@id/edittext_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/dialog_caption_blocklist_edittext_input_hint" app:endIconDrawable="@drawable/ic_baseline_add_24" app:endIconMode="custom" app:endIconTint="?colorPrimary" app:helperText="@string/dialog_caption_blocklist_edittext_helper" app:helperTextEnabled="true" style="@style/MTextInputLayout">
+            <com.google.android.material.textfield.TextInputEditText android:id="@id/edittext" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:inputType="textLongMessage" android:imeOptions="actionDone" />
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+</ScrollView>

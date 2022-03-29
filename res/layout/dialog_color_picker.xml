@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+        <com.google.android.material.card.MaterialCardView android:layout_gravity="center_horizontal" android:id="@id/preview" android:layout_width="fill_parent" android:layout_height="50.0dip" style="@style/MCardViewPreview" />
+        <com.google.android.material.textfield.TextInputLayout android:layout_gravity="center" android:id="@id/edittext_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" app:boxStrokeWidth="0.0dip" app:boxStrokeWidthFocused="0.0dip" app:prefixText="\#">
+            <com.google.android.material.textfield.TextInputEditText android:layout_gravity="center" android:id="@id/edittext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:maxLength="6" android:inputType="text" android:imeOptions="actionDone" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.slider.Slider android:value="0" android:id="@id/slider_r" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/cardview_ui_color_title" android:valueFrom="0" android:valueTo="255" app:labelBehavior="gone" app:tickVisible="false" style="@style/Widget.Material3.Slider" />
+        <com.google.android.material.slider.Slider android:value="0" android:id="@id/slider_g" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/cardview_ui_color_title" android:valueFrom="0" android:valueTo="255" app:labelBehavior="gone" app:tickVisible="false" style="@style/Widget.Material3.Slider" />
+        <com.google.android.material.slider.Slider android:value="0" android:id="@id/slider_b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/cardview_ui_color_title" android:valueFrom="0" android:valueTo="255" app:labelBehavior="gone" app:tickVisible="false" style="@style/Widget.Material3.Slider" />
+    </LinearLayout>
+</ScrollView>
