@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">انتقل المنزل</string>
+    <string name="abc_action_bar_up_description">انتقل لأعلى</string>
+    <string name="abc_action_menu_overflow_description">المزيد من الخيارات</string>
+    <string name="abc_action_mode_done">تـم</string>
+    <string name="abc_activity_chooser_view_see_all">اظهار الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختر أحد التطبيقات</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">السيطرة +</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">أدخل</string>
+    <string name="abc_menu_function_shortcut_label">الوظيفة +</string>
+    <string name="abc_menu_meta_shortcut_label">ميتا +</string>
+    <string name="abc_menu_shift_shortcut_label">التحول +</string>
+    <string name="abc_menu_space_shortcut_label">الفضاء</string>
+    <string name="abc_menu_sym_shortcut_label">سيم +</string>
+    <string name="abc_prepend_shortcut_label">القائمة +</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">مسح الاستعلام</string>
+    <string name="abc_searchview_description_query">استعلام بحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال الاستعلام</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">شارك مع</string>
+    <string name="abc_shareactionprovider_share_with_application">شارك مع %s</string>
+    <string name="abc_toolbar_collapse_description">انهيار</string>
+    <string name="add">إضافة</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع منتصف الطريق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="cardview_caption_blocklist_content">تمت تصفية الكلمة / الجملة</string>
+    <string name="cardview_caption_blocklist_des">أنشئ قائمة حظر للتعليقات التوضيحية للمشاركات. لن تظهر المشاركات التي تحتوي على الكلمات التالية في التعليقات في المخطط الزمني</string>
+    <string name="cardview_caption_blocklist_title">قائمة حظر التسمية التوضيحية</string>
+    <string name="cardview_discover_ads_des">إخفاء لافتة الإعلانات في أعلى قسم الاكتشاف</string>
+    <string name="cardview_discover_ads_title">إزالة اكتشاف لافتة الإعلانات</string>
+    <string name="cardview_discover_trending_ads_des">إخفاء الإعلانات الشائعة من قسم الاكتشاف</string>
+    <string name="cardview_discover_trending_ads_title">إزالة الإعلانات الشائعة</string>
+    <string name="cardview_download_mute_des">عند تحميل فيديو سوف يتم مشاهدة مقاطع الفيديو بدون صوت</string>
+    <string name="cardview_download_mute_title">تحميل مع كتم الصوت</string>
+    <string name="cardview_duet_des">تجاوز إعدادات الخصوصية. قد لا تزال بعض مقاطع الفيديو متاحة للثنائي بسبب حجمها أو نوعها</string>
+    <string name="cardview_duet_title">دويتو</string>
+    <string name="cardview_font_content">بروكسيما نوفا</string>
+    <string name="cardview_font_des">تغيير نمط الخط الافتراضي من تيك توك.قد يسبب مشاكل بصرية وتحتاج إلى إعادة تشغيل نافذة المفعول</string>
+    <string name="cardview_font_title">نمط الخط</string>
+    <string name="cardview_footer">صـنع مع ❤ بواسطة SSV</string>
+    <string name="cardview_footer_version">الإصدار</string>
+    <string name="cardview_force_region">اختيار المنطقة</string>
+    <string name="cardview_force_region_des">تطابق كل وظيفة مع المنطقة المحددة المنطقة المحددة ذات الصلة. ستفتقد الكثير من المحتويات من دول أخرى</string>
+    <string name="cardview_gif_download_location_des">مسار ملفات GIF التي تم تنزيلها</string>
+    <string name="cardview_gif_location_content">أفلام / TikTok</string>
+    <string name="cardview_gif_location_title">موقع تنزيل GIF</string>
+    <string name="cardview_gif_watermark_des">قم بإزالة العلامة المائية (شعار TikTok) من ملفات GIF التي تم تنزيلها ومشاركتها</string>
+    <string name="cardview_gif_watermark_title">إزالة GIF Watermark</string>
+    <string name="cardview_header_is_tiktok_installed">تم تثبيت TikTok:</string>
+    <string name="cardview_hide_long_posts_content">اطول من</string>
+    <string name="cardview_hide_long_posts_title">إخفاء المشاركات الطويلة</string>
+    <string name="cardview_live_des">لا تظهر البث المباشر في الجدول الزمني</string>
+    <string name="cardview_live_title">إزالة البث المباشر</string>
+    <string name="cardview_long_post_des">لن تظهر المشاركات التي تزيد مدتها عن هذا الوقت في المخطط الزمني. يمكن أن يكون مفيدًا لتقليل استخدام الإنترنت</string>
+    <string name="cardview_play_loop_des">توقف عن تشغيل مقاطع الفيديو عند وصولها إلى النهاية ولا تكررها</string>
+    <string name="cardview_play_loop_title">مشاهدة الفيديو مرة واحدة عدم تكرار</string>
+    <string name="cardview_playback_speed_des">ضبط سرعة التشغيل لمشغل فيديو التطبيق</string>
+    <string name="cardview_playback_speed_title">سرعة التشغيل</string>
+    <string name="cardview_post_caption_des">لا تظهر بعد التسميات التوضيحية على الإطلاق</string>
+    <string name="cardview_post_caption_title">إزالة التسمية التوضيحية بعد</string>
+    <string name="cardview_region_content">الولايات المتحدة الأمريكية</string>
+    <string name="cardview_region_des">يستخدم TikTok هذا الموقع لتحميل المحتويات. انتبه إلى أن بعض هذه المناطق مقيدة بواسطة TikTok وإذا قمت باختيارها ، فمن المحتمل أنك تتلقى خطأ لا يوجد اتصال بالشبكة في تطبيق TikTok</string>
+    <string name="cardview_region_title">منطقة</string>
+    <string name="cardview_rewind_des">أضف القدرة على القفز إلى أي جزء من مقاطع الفيديو وقم أيضًا بتمكين شريط التقدم لجميع مقاطع الفيديو</string>
+    <string name="cardview_rewind_title">إرجاع (تقديم سريع)</string>
+    <string name="cardview_stitch_des">تجاوز إعدادات الخصوصية لإمكانية التركيب. لا تزال بعض مقاطع الفيديو غير متاحة للغرز بسبب حجمها أو نوعها</string>
+    <string name="cardview_stitch_title">غرزة</string>
+    <string name="cardview_timeline_ads_des">إخفاء الإعلانات الترويجية في الجدول الزمني</string>
+    <string name="cardview_timeline_ads_title">إزالة إعلانات الجدول الزمني</string>
+    <string name="cardview_ui_color_des">قم بتغيير اللون الافتراضي لطرق العرض مثل القاع الرئيسي والنصوص وما إلى ذلك</string>
+    <string name="cardview_ui_color_title">ألوان واجهة المستخدم</string>
+    <string name="cardview_video_download_location_des">مسار مقاطع الفيديو التي تم تنزيلها</string>
+    <string name="cardview_video_location_title">موقع تنزيل الفيديو</string>
+    <string name="cardview_video_watermark_des">قم بإزالة العلامة المائية (شعار TikTok المتحرك ومعرف المستخدم) من مقاطع الفيديو التي تم تنزيلها ومشاركتها</string>
+    <string name="cardview_video_watermark_title">إزالة شعار (TikTok) اثناء حفظ فيديو</string>
+    <string name="center">وسـط</string>
+    <string name="character_counter_content_description">تم إدخال الأحرف%1$d من%2$d</string>
+    <string name="character_counter_overflowed_content_description">تجاوز حد الأحرف %1$d من %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="checkbox_mode">رمز فقط</string>
+    <string name="chip_text">نص رقاقة</string>
+    <string name="clear_text_end_icon_content_description">نص واضح</string>
+    <string name="copied_to_clipboard">نسخ إلى الحافظة.</string>
+    <string name="dialog_caption_blocklist_edittext_helper">لن تظهر المشاركات التي تحتوي على الكلمات التالية في تسمياتها التوضيحية في مخططك الزمني</string>
+    <string name="dialog_caption_blocklist_edittext_input_hint">أدخل كلمة</string>
+    <string name="dialog_caption_blocklist_edittext_input_is_empty">الإدخال فارغ!</string>
+    <string name="dialog_caption_blocklist_edittext_input_is_exists">الكلمة موجودة بالفعل!</string>
+    <string name="dialog_caption_blocklist_info">انتبه إلى أنه إذا أدخلت جملة ، فسيتم التحقق من التسمية التوضيحية للجملة بالضبط وليس كل كلمة جملة على حدة</string>
+    <string name="dialog_caption_blocklist_title">أضف كلمة</string>
+    <string name="dialog_color_picker_title">أداة انتقاء اللون</string>
+    <string name="dialog_help_title">مساعدة</string>
+    <string name="dialog_info_title">معلومات</string>
+    <string name="dialog_launch_button_hint">موضع زر الإطلاق</string>
+    <string name="dialog_launch_button_title">زر التشغيل</string>
+    <string name="dialog_location_title">المواقع</string>
+    <string name="dialog_long_post_helper_no_limit">سوف تظهر جميع المشاركات في الجدول الزمني</string>
+    <string name="dialog_long_post_helper_part1">المشاركات أطول من</string>
+    <string name="dialog_long_post_helper_part2">ثواني ، لن تظهر في المخطط الزمني</string>
+    <string name="dialog_long_post_title">المشاركات الطويلة</string>
+    <string name="dialog_permission_denied_message">نحتاج إلى الوصول إلى التخزين لإرسال التكوين المخصص الخاص بك إلى TikTok. ستبقى جميع بياناتك المهمة في هاتفك ولن ترسل إلى أي خادم تابع لجهة خارجية.</string>
+    <string name="dialog_permission_denied_title">لم يتم منح الإذن</string>
+    <string name="dialog_region_info">• يعمل TikTok دون الحاجة إلى التسجيل أو تسجيل الدخول مع المناطق التالية: - أفغانستان ، الأرجنتين ، أستراليا ، أذربيجان ، بنغلاديش ، بيلاروسيا ، بوليفيا ، البرازيل ، كندا ، تشيلي ، كولومبيا ، كوستاريكا ، قبرص ، مصر ، إندونيسيا ، العراق ، إسرائيل ، اليابان ، لبنان ، ليبيا ، مدغشقر ، ماليزيا ، المكسيك ، المغرب ، نيوزيلندا ، نيجيريا ، عمان ، باكستان ، فلسطين ، بنما ، باراغواي ، بيرو ، الفلبين ، بورتوريكو ، قطر ، روسيا ، المملكة العربية السعودية ، سنغافورة ، جنوب أفريقيا ، كوريا الجنوبية ، سريلانكا وتايوان وطاجيكستان وتايلاند وتركيا وتركمانستان وأوكرانيا والإمارات العربية المتحدة وأوزبكستان وفنزويلا وفيتنام وزامبيا وبلغاريا وكازاخستان وقيرغيزستان • المناطق التالية محظورة بواسطة TikTok (لا تختارها): - كوبا ، الهند ، إيران ، سوريا ، روسيا</string>
+    <string name="dialog_region_title">المناطق</string>
+    <string name="dialog_reset_message">ستتم إعادة تعيين إعدادات البرنامج المساعد إلى القيم الافتراضية ولكن تظل الإعدادات المتعلقة بالتطبيق كما هي. هل أنت متأكد؟</string>
+    <string name="dialog_reset_title">إعادة ضبط</string>
+    <string name="dialog_theme_auto_item">الإعداد (النظام تلقائي)</string>
+    <string name="dialog_theme_dark_item">داكن</string>
+    <string name="dialog_theme_light_item">فاتح</string>
+    <string name="dialog_theme_title">المظهر</string>
+    <string name="dialog_tiktok_not_found_message">قم أولاً بتنزيل وتثبيت أحدث إصدار من TikTok من قناة Telegram الخاصة بنا. لا يتم دعم إصدار متجر Google Play والتعديلات الأخرى من الإنترنت.</string>
+    <string name="dialog_tiktok_not_found_title">TikTok غير موجود</string>
+    <string name="dialog_tiktok_not_supported_message">هذا الإصدار من TikTok لا يدعمه البرنامج المساعد. يرجى إلغاء تثبيته وتنزيل أحدث إصدار من قناة التلغرام الخاصة بنا. لا يتم دعم إصدار متجر Google Play والتعديلات الأخرى من الإنترنت</string>
+    <string name="dialog_tiktok_not_supported_title">الإصدار غير مدعوم</string>
+    <string name="dialog_ui_color_main_bottom_bg_home">لون الخلفية السفلي الأساسي (الصفحة الرئيسية)</string>
+    <string name="dialog_ui_color_main_bottom_bg_others">لون الخلفية الأساسية السفلية (اكتشاف ، البريد الوارد ، الملف الشخصي)</string>
+    <string name="enabled">ممكن</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="exposed_dropdown_menu_content_description">إظهار القائمة المنسدلة</string>
+    <string name="fab_text">قم بتشغيل TikTok</string>
+    <string name="icon_content_description">رمز الحوار</string>
+    <string name="item_view_role_description">فاتورة غير مدفوعة</string>
+    <string name="left">يسار</string>
+    <string name="m3_ref_typeface_brand_display_regular">بلا الرقيق</string>
+    <string name="m3_ref_typeface_brand_medium">بلا سيريف متوسط</string>
+    <string name="m3_ref_typeface_brand_regular">بلا الرقيق</string>
+    <string name="m3_ref_typeface_plain_medium">بلا سيريف متوسط</string>
+    <string name="m3_ref_typeface_plain_regular">بلا الرقيق</string>
+    <string name="m3_sys_typescale_body_large_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_body_medium_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_body_small_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_display_large_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_display_medium_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_display_small_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_headline_large_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_headline_medium_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_headline_small_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_label_large_font">بلا سيريف متوسط</string>
+    <string name="m3_sys_typescale_label_medium_font">بلا سيريف متوسط</string>
+    <string name="m3_sys_typescale_label_small_font">بلا سيريف متوسط</string>
+    <string name="m3_sys_typescale_title_large_font">بلا الرقيق</string>
+    <string name="m3_sys_typescale_title_medium_font">بلا سيريف متوسط</string>
+    <string name="m3_sys_typescale_title_small_font">بلا سيريف متوسط</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">حدد صباحًا أو مساءً</string>
+    <string name="material_hour_selection">حدد الساعة</string>
+    <string name="material_hour_suffix">الساعة% 1 $s</string>
+    <string name="material_minute_selection">حدد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_slider_range_end">نهاية النطاق ،</string>
+    <string name="material_slider_range_start">بداية المدى ،</string>
+    <string name="material_timepicker_am">أكون</string>
+    <string name="material_timepicker_clock_mode_description">قم بالتبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">ساعة</string>
+    <string name="material_timepicker_minute">اللحظة</string>
+    <string name="material_timepicker_pm">مساء</string>
+    <string name="material_timepicker_select_time">حدد الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">قم بالتبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="menu_help">مساعدة</string>
+    <string name="menu_telegram_channel">قناة Telegram</string>
+    <string name="menu_crowdin_help">مساعدة في الترجمة</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة%1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">أكثر من %1$d من الإشعارات الجديدة</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر المقبل</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">التحديد الحالي:%1$s</string>
+    <string name="mtrl_picker_confirm">نعم</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">حدد تاريخ</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام:%1$s</string>
+    <string name="mtrl_picker_invalid_format">تنسيق غير صالح.</string>
+    <string name="mtrl_picker_invalid_format_example">مثال:%1$s</string>
+    <string name="mtrl_picker_invalid_format_use">الاستخدام:%1$s</string>
+    <string name="mtrl_picker_invalid_range">نطاق غير صالح.</string>
+    <string name="mtrl_picker_navigate_to_year_description">انتقل إلى العام%1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق:%1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء -%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_title">اختر نطاقا</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">يحفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">تاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">د</string>
+    <string name="mtrl_picker_text_input_month_abbr">م</string>
+    <string name="mtrl_picker_text_input_year_abbr">ذ</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">قم بالتبديل إلى وضع إدخال التقويم</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل لاختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">قم بالتبديل إلى وضع إدخال النص</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل لاختيار عام</string>
+    <string name="mtrl_timepicker_confirm">نعم</string>
+    <string name="no">رقم</string>
+    <string name="not_supported" />
+    <string name="off">إيقاف</string>
+    <string name="ok">نعم</string>
+    <string name="on">تشغيل</string>
+    <string name="open_telegram_failed">عذرا ، ليس لديك أي متصفح.</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="right">يمين</string>
+    <string name="search_menu_title">بحث</string>
+    <string name="seconds">ثواني</string>
+    <string name="settings_reset_done">تمت استعادة جميع الإعدادات إلى القيم الافتراضية</string>
+    <string name="speed_express">(1.5🐈)</string>
+    <string name="speed_fast">(2.0x🐎)</string>
+    <string name="speed_normal">(1.0x🦦)</string>
+    <string name="speed_quick">(1.25🐁)</string>
+    <string name="speed_slow">(0.5🐢)</string>
+    <string name="speed_sonic">(2.5🐇)</string>
+    <string name="speed_tails">(2.25🐆)</string>
+    <string name="speed_very_fast">(3.0x🚀)</string>
+    <string name="speed_very_slow">(0.25🐌)</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="yes">نعم</string>
+</resources>
