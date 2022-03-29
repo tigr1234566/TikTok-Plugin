@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="m3_sys_typescale_body_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_body_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_body_small_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_display_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_display_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_display_small_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_headline_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_headline_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_headline_small_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_label_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_label_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_label_small_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_title_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_title_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_title_small_text_all_caps">false</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+</resources>
