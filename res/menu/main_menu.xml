@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/menu_item_theme" android:title="@string/dialog_theme_title" />
+    <item android:id="@id/open_link_by_default" android:title="@string/open_link_by_default" />
+    <item android:id="@id/signUp" android:title="@string/signUp" />
+    <item android:id="@id/menu_item_launch_button" android:title="@string/dialog_launch_button_title" />
+    <item android:id="@id/menu_item_telegram_channel" android:title="@string/menu_telegram_channel" />
+    <item android:id="@id/menu_item_crowdin_help" android:title="@string/menu_crowdin_help" />
+    <item android:id="@id/menu_item_reset" android:title="@string/dialog_reset_title" />
+    <item android:id="@id/menu_item_help" android:title="@string/menu_help" />
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" package="com.tiktok.plugin" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <queries>
+        <package android:name="com.zhiliaoapp.musically"/>
+        <package android:name="com.ss.android.ugc.trill"/>
+        <package android:name="com.ss.android.ugc.aweme"/>
+        <package android:name="com.zhiliaoapp.musicallz"/>
+    </queries>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.tiktok.plugin.App" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="false" android:theme="@style/Theme.TikTok.Plugin">
+        <provider android:authorities="com.tiktok.plugin.provider" android:enabled="true" android:exported="true" android:name="com.tiktok.plugin.server.contentProvider.MyContentProvider"/>
+        <activity android:exported="true" android:name="com.tiktok.plugin.MainActivity" android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.tiktok.plugin.FlurryContentProvider" android:exported="false" android:name="com.flurry.android.agent.FlurryContentProvider"/>
+        <provider android:authorities="com.tiktok.plugin.androidx-startup" android:exported="false" android:name="androidx.startup.InitializationProvider">
+            <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+        </provider>
+    </application>
+</manifest>
